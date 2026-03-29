@@ -1,4 +1,4 @@
-# Contract management and contract testing
+# Sözleşme Yönetimi ve Sözleşme Testi
 
 ## SUNU 01
 
