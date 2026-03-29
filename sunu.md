@@ -3,19 +3,19 @@
 ## SUNU 01
 
 ### İçerik
-- **Ana başlık:** Dijital Dönüşümde Emniyet Kemeri
-- **Alt başlık:** Contract Management - Contract Testing
-- **En Alt:**
-  Ali Osman ALATAŞ
-  Lider Uzman
-  Orta Katman ve Framework Çözümleri Müdürlüğü
+- **Ana başlık:** Dijital Dönüşümde Emniyet Kemeri  
+- **Alt başlık:** Contract Management - Contract Testing  
+- **En Alt:**  
+  Ali Osman ALATAŞ  
+  Lider Uzman  
+  Orta Katman ve Framework Çözümleri Müdürlüğü  
 
 ### Konuşma metni
 Merhabalar. Ben Ali Osman Alataş. Orta Katman ve Framework Çözümleri Müdürlüğü (OKF) bünyesinde Lider Uzman olarak görev yapıyorum.
 
 Bugün sizlerle **Contract Management** ve **Contract Testing** üzerine konuşmak için bir aradayız. Konuyu bir sunumla görselleştirdim; yaklaşık **12 dakika** sürecek.
 
-Bankacılık sistemlerinde çok kritik ama çoğu zaman görünmeyen bir riske odaklanacağız. Bu risk aslında her gün yaşanıyor; çoğu zaman fark etmeden üzerinden geçiyoruz.
+Bankacılık sistemlerinde çok kritik ama çoğu zaman görünmeyen bir riske odaklanacağız. Bu risk aslında her gün yaşanıyor; çoğu zaman fark etmeden üzerinden geçiyoruz.  
 Bu sunumda hem bu riski netleştireceğim hem de onu **sistematik** bir şekilde nasıl yöneteceğimizi anlatacağım.
 
 ### Yönetici bu anda ne düşünür
